@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Advance DSA **Tries**
 
-- 👯 I’m looking to collaborate on National Hackathons **Image and Text Analysis**
+- 👯 I’m looking to collaborate on National Hackathons **Image and Text Analysis in Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyush886500](https://github.com/piyush886500)
 
